@@ -1,0 +1,74 @@
+body {
+  background-color: black;
+}
+
+/* NAVBAR */
+.navbar {
+  padding: 15px 30px;
+  font-family: 'Rubik Distressed', cursive;
+}
+
+.navbar-brand {
+  font-size: 3rem;
+  padding-left: 20px;
+}
+.navbar-brand:hover{
+  color: #FFE15D;
+}
+
+/* JUMBOTRON */
+.jumbotron {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  margin-top: 30px;
+  text-align: center;
+  font-size: 2rem;
+  font-family: 'Rubik Distressed', cursive;
+  color: white;
+}
+
+/* COINS */
+.coin-manage {
+  padding-top: 60px;
+  text-align: center;
+}
+
+h2{
+  padding-top: 20px;
+  padding-bottom: 30px;
+  color: white;
+  font-family: 'Rubik Distressed', cursive;
+}
+
+
+h1{
+  padding-top: 20px;
+  padding-bottom: 30px;
+  color: white;
+  font-family: 'Rubik Distressed', cursive;
+}
+h1:hover{
+  color: #FFE15D;
+}
+.yo{
+  margin: auto;
+}
+.foot{
+text-align: center;
+}
+.s{
+  padding: 30px 50px;
+}
+.s:hover{
+  color: #FFE15D;
+}
+.coins{
+  transform: rotate(45deg);
+}
+p:hover{
+  color: #FFE15D;
+}
+h2:hover{
+  color: #FFE15D;
+}
